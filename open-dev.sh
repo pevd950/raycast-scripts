@@ -2,14 +2,14 @@
 
 # Required parameters:
 # @raycast.schemaVersion 1
-# @raycast.title Open Applications
+# @raycast.title Open Developer
 # @raycast.mode silent
 # @raycast.packageName Navigation
 
 # Optional parameters:
-# @raycast.icon images/launchpad.png
+# @raycast.icon images/xcode.png
 
 # Documentation:
-# @raycast.description Opens the Applications folder in the Finder.
+# @raycast.description Opens the Desktop folder in the Finder.
 
-open /Applications
+open ~/Developer

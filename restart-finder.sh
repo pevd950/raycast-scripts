@@ -2,7 +2,7 @@
 
 # Required parameters:
 # @raycast.schemaVersion 1
-# @raycast.title Restart
+# @raycast.title Restart Finder
 # @raycast.mode silent
 # @raycast.packageName System
 
